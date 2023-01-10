@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1654729853
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f18517dff31e565106f99d39a49f0025
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e5328e6fb2b4e57658e4010ee43d7e98
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/UINew/prefab/Sphere.prefab
+Dependencies:
+- F:/SDS/cdnres/cdnres/res/cube_d6b4160d615a4eea4725be8d071523b5.unity3d

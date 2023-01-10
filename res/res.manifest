@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 1869451350
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: sphere_f18517dff31e565106f99d39a49f0025.unity3d
+      Dependencies:
+        Dependency_0: cube_d6b4160d615a4eea4725be8d071523b5.unity3d
+    Info_1:
+      Name: cube_d6b4160d615a4eea4725be8d071523b5.unity3d
+      Dependencies: {}
